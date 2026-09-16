@@ -99,6 +99,24 @@ The production system was designed to communicate with external services, includ
 
 ---
 
+---
+
+## Screenshots
+
+### Employee Operations
+
+![Employee Operations](screenshots/01_employee_operations.png)
+
+### Warehouse & Inventory
+
+![Warehouse & Inventory](screenshots/02_warehouse_inventory.png)
+
+### Daily Performance
+
+![Daily Performance](screenshots/03_daily_performance.png)
+
+---
+
 ## My Role
 
 ### System Analysis & Technical Coordination
